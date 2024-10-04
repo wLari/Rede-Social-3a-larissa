@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
 
 :root{
-    --bg-color: #E5D9F2;
+    --bg-color: #EBD9B4;
     --primary-color: #000000;
+    --secondary-color: #FFF323;
+    --font: "nunito sans", sans-serif;
 }
